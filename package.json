@@ -1,0 +1,17 @@
+{
+  "name": "com.pippinmole.particles",
+  "version": "1.0.0",
+  "displayName": "pippin_mole Particles",
+  "description": "A particle system for use in Unity",
+  "unity": "2019.4",
+  "keywords": [
+    "particle system",
+    "tools",
+    "pippin"
+  ],
+  "author": {
+    "name": "pippin_mole",
+    "email": "",
+    "url": "https://github.com/pippinmole/"
+  }
+}
